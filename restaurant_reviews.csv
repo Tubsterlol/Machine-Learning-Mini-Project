@@ -1,0 +1,501 @@
+Restaurant,Review,Rating
+Taco Bell,Highly recommend this place,5
+Tim Hortons,Great flavors and excellent presentation,5
+KFC,Cozy atmosphere and tasty food,4
+Taco Bell,"Ambience was good, food was average",3
+Olive Garden,Absolutely fantastic experience,5
+Popeyes,The order was wrong and cold,2
+Domino's,"Ambience was good, food was average",2
+Dunkin,Average experience overall,3
+Shake Shack,The taste was decent but not great,2
+Five Guys,Highly recommend this place,4
+Five Guys,Poor hygiene and bad taste,2
+Shake Shack,Everything was perfect and delicious,4
+Chili's,The taste was decent but not great,4
+Wendy's,It’s fine for a quick meal,3
+Tim Hortons,Everything was perfect and delicious,4
+McDonald's,Best meal I’ve had in a while,5
+Nando's,Everything was perfect and delicious,4
+Dunkin,It’s fine for a quick meal,3
+Tim Hortons,Amazing food and friendly staff,4
+Nando's,The coffee was okay,3
+Popeyes,Terrible service and cold food,2
+McDonald's,The service was quick and polite,5
+KFC,Great flavors and excellent presentation,4
+Buffalo Wild Wings,"Mediocre, not too bad but not great",3
+Wendy's,Waited too long and food was awful,2
+Buffalo Wild Wings,"Loved the taste, will come again",5
+Pizza Hut,Everything was perfect and delicious,4
+Dunkin,"Mediocre, not too bad but not great",3
+Domino's,"Food was okay, nothing special",2
+Olive Garden,The coffee was okay,4
+Pizza Hut,Fresh ingredients and fast service,4
+KFC,Everything was perfect and delicious,4
+Panda Express,Cozy atmosphere and tasty food,4
+Shake Shack,Absolutely fantastic experience,5
+Panda Express,Amazing food and friendly staff,4
+Pizza Hut,Amazing food and friendly staff,5
+Panda Express,It’s fine for a quick meal,3
+Starbucks,Great flavors and excellent presentation,4
+Buffalo Wild Wings,Reasonable quality for the price,3
+Domino's,Average experience overall,4
+Five Guys,The service was quick and polite,4
+Popeyes,The coffee was okay,2
+Buffalo Wild Wings,Amazing food and friendly staff,4
+McDonald's,It’s fine for a quick meal,3
+Five Guys,"Loved the taste, will come again",4
+Popeyes,Terrible service and cold food,2
+Dunkin,Average experience overall,4
+Starbucks,Did not enjoy the meal at all,1
+KFC,The service was quick and polite,4
+Panda Express,It’s fine for a quick meal,4
+Tim Hortons,Absolutely fantastic experience,4
+Tim Hortons,Highly recommend this place,4
+Buffalo Wild Wings,Cozy atmosphere and tasty food,5
+Buffalo Wild Wings,Everything was perfect and delicious,5
+Buffalo Wild Wings,Best meal I’ve had in a while,4
+Subway,"Food was okay, nothing special",3
+Subway,"Mediocre, not too bad but not great",2
+Domino's,Absolutely fantastic experience,5
+Shake Shack,The order was wrong and cold,2
+Domino's,Absolutely fantastic experience,4
+Starbucks,Fresh ingredients and fast service,5
+Domino's,Highly recommend this place,4
+Shake Shack,Fresh ingredients and fast service,4
+Dunkin,The service was quick and polite,4
+Five Guys,The service was quick and polite,5
+Nando's,Reasonable quality for the price,2
+Pizza Hut,Best meal I’ve had in a while,4
+Olive Garden,Cozy atmosphere and tasty food,4
+Tim Hortons,Waited too long and food was awful,2
+McDonald's,Waited too long and food was awful,2
+Chipotle,Cozy atmosphere and tasty food,5
+Domino's,Great flavors and excellent presentation,5
+Subway,Waited too long and food was awful,2
+Pizza Hut,Fresh ingredients and fast service,5
+McDonald's,It’s fine for a quick meal,3
+Taco Bell,It’s fine for a quick meal,3
+Five Guys,The service was quick and polite,5
+Tim Hortons,Absolutely fantastic experience,5
+Starbucks,Fresh ingredients and fast service,4
+Shake Shack,Average experience overall,3
+Olive Garden,Everything was perfect and delicious,5
+Subway,The service was quick and polite,5
+Tim Hortons,"Loved the taste, will come again",4
+Popeyes,"Mediocre, not too bad but not great",2
+Starbucks,Cozy atmosphere and tasty food,5
+Burger King,"It was fine, just a regular visit",4
+Chipotle,Fresh ingredients and fast service,5
+Dunkin,"Loved the taste, will come again",4
+Wendy's,Great flavors and excellent presentation,4
+Starbucks,Food was stale and bland,2
+Wendy's,Absolutely fantastic experience,4
+Dunkin,Fresh ingredients and fast service,5
+Domino's,Fresh ingredients and fast service,5
+Chili's,"Loved the taste, will come again",4
+Wendy's,Great flavors and excellent presentation,5
+Chipotle,Everything was perfect and delicious,5
+Pizza Hut,Best meal I’ve had in a while,4
+Popeyes,Absolutely fantastic experience,4
+Starbucks,Did not enjoy the meal at all,2
+Subway,Great flavors and excellent presentation,5
+Dunkin,Highly recommend this place,5
+Olive Garden,Everything was perfect and delicious,4
+Burger King,"Ambience was good, food was average",2
+Five Guys,Highly recommend this place,5
+Pizza Hut,Great flavors and excellent presentation,4
+Popeyes,"Food was okay, nothing special",2
+Burger King,Fresh ingredients and fast service,5
+Tim Hortons,Terrible service and cold food,1
+Tim Hortons,Average experience overall,2
+Buffalo Wild Wings,Everything was perfect and delicious,5
+Olive Garden,Great flavors and excellent presentation,4
+KFC,Highly recommend this place,5
+Pizza Hut,Fresh ingredients and fast service,4
+Buffalo Wild Wings,Amazing food and friendly staff,5
+Tim Hortons,Amazing food and friendly staff,5
+Tim Hortons,Service could be better,2
+Buffalo Wild Wings,The coffee was okay,4
+Wendy's,The order was wrong and cold,2
+Olive Garden,Best meal I’ve had in a while,5
+Dunkin,The coffee was okay,2
+Subway,Disappointed with the experience,1
+Tim Hortons,Too expensive for what you get,2
+Five Guys,"It was fine, just a regular visit",4
+Pizza Hut,The service was quick and polite,5
+Pizza Hut,Did not enjoy the meal at all,1
+Panda Express,The service was quick and polite,5
+Chili's,"It was fine, just a regular visit",4
+Dunkin,Fresh ingredients and fast service,5
+Domino's,Everything was perfect and delicious,5
+McDonald's,Everything was perfect and delicious,5
+Shake Shack,"Loved the taste, will come again",4
+Shake Shack,"It was fine, just a regular visit",2
+Shake Shack,Fresh ingredients and fast service,4
+Chipotle,The service was quick and polite,5
+Popeyes,The coffee was okay,4
+Shake Shack,Waited too long and food was awful,2
+Wendy's,Food was stale and bland,2
+Shake Shack,The taste was decent but not great,4
+McDonald's,Rude staff and dirty tables,1
+Buffalo Wild Wings,The service was quick and polite,5
+Wendy's,Great flavors and excellent presentation,5
+Buffalo Wild Wings,Amazing food and friendly staff,4
+Chili's,Amazing food and friendly staff,5
+Tim Hortons,The service was quick and polite,5
+Nando's,"Mediocre, not too bad but not great",4
+Chipotle,Great flavors and excellent presentation,5
+Tim Hortons,It’s fine for a quick meal,4
+Burger King,Best meal I’ve had in a while,4
+Chipotle,Too expensive for what you get,1
+Pizza Hut,Would not recommend this place,2
+Taco Bell,The taste was decent but not great,2
+Chili's,Cozy atmosphere and tasty food,5
+KFC,The service was quick and polite,4
+Burger King,Absolutely fantastic experience,4
+Chipotle,Highly recommend this place,4
+Tim Hortons,Fresh ingredients and fast service,4
+Subway,Fresh ingredients and fast service,5
+Domino's,Amazing food and friendly staff,4
+Burger King,The coffee was okay,3
+Buffalo Wild Wings,"It was fine, just a regular visit",2
+Taco Bell,Highly recommend this place,5
+Panda Express,The coffee was okay,2
+Chili's,Rude staff and dirty tables,2
+Five Guys,Service could be better,3
+Taco Bell,Best meal I’ve had in a while,4
+Panda Express,The service was quick and polite,5
+Buffalo Wild Wings,Fresh ingredients and fast service,5
+Tim Hortons,Amazing food and friendly staff,5
+Panda Express,The service was quick and polite,5
+KFC,Highly recommend this place,4
+Taco Bell,Amazing food and friendly staff,5
+KFC,Reasonable quality for the price,3
+McDonald's,The service was quick and polite,4
+Burger King,Great flavors and excellent presentation,4
+Buffalo Wild Wings,"Loved the taste, will come again",4
+Five Guys,The service was quick and polite,4
+Chili's,Did not enjoy the meal at all,1
+Five Guys,"Loved the taste, will come again",5
+Five Guys,Did not enjoy the meal at all,1
+Domino's,Highly recommend this place,5
+Olive Garden,Highly recommend this place,4
+Domino's,The coffee was okay,4
+Nando's,Great flavors and excellent presentation,4
+Chipotle,Highly recommend this place,4
+Taco Bell,Absolutely fantastic experience,4
+Burger King,The coffee was okay,3
+Buffalo Wild Wings,Everything was perfect and delicious,5
+Wendy's,Fresh ingredients and fast service,5
+Five Guys,Best meal I’ve had in a while,5
+Olive Garden,The service was quick and polite,5
+Pizza Hut,The service was quick and polite,4
+Tim Hortons,"It was fine, just a regular visit",4
+Shake Shack,Amazing food and friendly staff,5
+Popeyes,Highly recommend this place,4
+Taco Bell,Would not recommend this place,2
+Chipotle,Highly recommend this place,4
+Nando's,Best meal I’ve had in a while,5
+Buffalo Wild Wings,Great flavors and excellent presentation,4
+Burger King,"Mediocre, not too bad but not great",4
+Starbucks,Service could be better,2
+Shake Shack,Highly recommend this place,4
+Chipotle,The service was quick and polite,4
+Olive Garden,"Loved the taste, will come again",4
+Domino's,Highly recommend this place,4
+Starbucks,"Mediocre, not too bad but not great",3
+Starbucks,Cozy atmosphere and tasty food,5
+Nando's,"Ambience was good, food was average",2
+Wendy's,Highly recommend this place,4
+Taco Bell,"Loved the taste, will come again",5
+Taco Bell,The service was quick and polite,4
+Chili's,"Ambience was good, food was average",2
+Buffalo Wild Wings,Would not recommend this place,2
+McDonald's,The service was quick and polite,5
+Chili's,"Mediocre, not too bad but not great",4
+Chili's,"Loved the taste, will come again",4
+KFC,The service was quick and polite,5
+Five Guys,Fresh ingredients and fast service,4
+Nando's,Disappointed with the experience,1
+Olive Garden,Fresh ingredients and fast service,5
+Olive Garden,Everything was perfect and delicious,5
+Taco Bell,Amazing food and friendly staff,4
+Subway,Highly recommend this place,4
+Nando's,"Mediocre, not too bad but not great",3
+Shake Shack,Best meal I’ve had in a while,5
+McDonald's,Poor hygiene and bad taste,2
+Pizza Hut,The service was quick and polite,5
+Popeyes,Everything was perfect and delicious,4
+Pizza Hut,Reasonable quality for the price,4
+Shake Shack,Great flavors and excellent presentation,5
+Starbucks,Best meal I’ve had in a while,5
+Tim Hortons,Highly recommend this place,5
+Chili's,It’s fine for a quick meal,4
+McDonald's,Rude staff and dirty tables,1
+Dunkin,Absolutely fantastic experience,4
+Starbucks,"Loved the taste, will come again",5
+Tim Hortons,"Loved the taste, will come again",5
+Shake Shack,Did not enjoy the meal at all,2
+Domino's,Best meal I’ve had in a while,4
+Nando's,Too expensive for what you get,2
+Nando's,Best meal I’ve had in a while,5
+McDonald's,It’s fine for a quick meal,2
+Domino's,Everything was perfect and delicious,4
+McDonald's,Food was stale and bland,2
+Popeyes,Cozy atmosphere and tasty food,4
+Panda Express,Waited too long and food was awful,1
+Burger King,Everything was perfect and delicious,4
+Starbucks,The coffee was okay,2
+Popeyes,The coffee was okay,2
+Nando's,The service was quick and polite,4
+Taco Bell,Too expensive for what you get,1
+Starbucks,"Loved the taste, will come again",5
+Five Guys,Fresh ingredients and fast service,5
+Shake Shack,Everything was perfect and delicious,5
+Dunkin,"Loved the taste, will come again",5
+Panda Express,Cozy atmosphere and tasty food,5
+Dunkin,Terrible service and cold food,2
+Pizza Hut,Fresh ingredients and fast service,5
+Buffalo Wild Wings,It’s fine for a quick meal,2
+Nando's,Best meal I’ve had in a while,5
+Buffalo Wild Wings,Did not enjoy the meal at all,2
+Panda Express,The order was wrong and cold,2
+Pizza Hut,"Loved the taste, will come again",5
+Popeyes,Fresh ingredients and fast service,4
+Olive Garden,Terrible service and cold food,1
+Shake Shack,"Loved the taste, will come again",5
+Tim Hortons,Amazing food and friendly staff,5
+McDonald's,Best meal I’ve had in a while,5
+Popeyes,The service was quick and polite,5
+Shake Shack,Waited too long and food was awful,1
+Panda Express,Amazing food and friendly staff,4
+McDonald's,Did not enjoy the meal at all,2
+Taco Bell,The service was quick and polite,5
+Chili's,Rude staff and dirty tables,2
+KFC,Great flavors and excellent presentation,4
+McDonald's,Absolutely fantastic experience,4
+Five Guys,Disappointed with the experience,1
+KFC,Fresh ingredients and fast service,5
+Dunkin,The service was quick and polite,4
+Buffalo Wild Wings,It’s fine for a quick meal,2
+Popeyes,The service was quick and polite,4
+Shake Shack,The service was quick and polite,5
+Nando's,Everything was perfect and delicious,4
+McDonald's,Best meal I’ve had in a while,5
+Chipotle,Cozy atmosphere and tasty food,4
+Chili's,Average experience overall,4
+Subway,Too expensive for what you get,1
+Chili's,Reasonable quality for the price,2
+KFC,Everything was perfect and delicious,4
+Domino's,Service could be better,4
+Olive Garden,Everything was perfect and delicious,4
+Burger King,Everything was perfect and delicious,4
+Subway,It’s fine for a quick meal,3
+Panda Express,Everything was perfect and delicious,4
+Subway,The coffee was okay,2
+Wendy's,Absolutely fantastic experience,5
+Burger King,"Loved the taste, will come again",5
+Olive Garden,Everything was perfect and delicious,5
+Olive Garden,"Loved the taste, will come again",5
+Starbucks,Amazing food and friendly staff,5
+Starbucks,The coffee was okay,4
+Buffalo Wild Wings,"Loved the taste, will come again",4
+Shake Shack,"Food was okay, nothing special",2
+Dunkin,Poor hygiene and bad taste,2
+Burger King,Food was stale and bland,1
+Dunkin,"Loved the taste, will come again",5
+Shake Shack,Terrible service and cold food,2
+Five Guys,Everything was perfect and delicious,5
+Chipotle,Best meal I’ve had in a while,4
+Nando's,"Loved the taste, will come again",4
+Chili's,Poor hygiene and bad taste,1
+Tim Hortons,Everything was perfect and delicious,5
+Tim Hortons,Everything was perfect and delicious,4
+Chili's,Absolutely fantastic experience,4
+Dunkin,Poor hygiene and bad taste,1
+Chili's,"Loved the taste, will come again",4
+Chili's,"It was fine, just a regular visit",4
+Dunkin,Waited too long and food was awful,1
+Dunkin,Everything was perfect and delicious,5
+Starbucks,"It was fine, just a regular visit",2
+Olive Garden,"Loved the taste, will come again",5
+Chili's,Absolutely fantastic experience,4
+Buffalo Wild Wings,Disappointed with the experience,2
+Buffalo Wild Wings,The order was wrong and cold,1
+McDonald's,The order was wrong and cold,1
+Five Guys,Fresh ingredients and fast service,5
+Burger King,Fresh ingredients and fast service,4
+Shake Shack,Everything was perfect and delicious,4
+Olive Garden,Great flavors and excellent presentation,4
+Taco Bell,Food was stale and bland,2
+Chili's,Highly recommend this place,5
+Domino's,Fresh ingredients and fast service,4
+Popeyes,Fresh ingredients and fast service,4
+Burger King,The order was wrong and cold,1
+KFC,"Loved the taste, will come again",5
+Starbucks,Amazing food and friendly staff,5
+Starbucks,"Loved the taste, will come again",4
+Taco Bell,Great flavors and excellent presentation,4
+Five Guys,Fresh ingredients and fast service,5
+Wendy's,Reasonable quality for the price,3
+Chili's,"Food was okay, nothing special",2
+Chipotle,Cozy atmosphere and tasty food,4
+Buffalo Wild Wings,The service was quick and polite,4
+Nando's,Highly recommend this place,4
+Pizza Hut,The service was quick and polite,5
+Pizza Hut,Cozy atmosphere and tasty food,5
+Nando's,"Ambience was good, food was average",3
+Domino's,Best meal I’ve had in a while,5
+Chili's,Great flavors and excellent presentation,4
+KFC,The taste was decent but not great,4
+Burger King,Rude staff and dirty tables,2
+Panda Express,Disappointed with the experience,1
+Domino's,Amazing food and friendly staff,4
+Olive Garden,Fresh ingredients and fast service,5
+Chili's,The taste was decent but not great,4
+Pizza Hut,Average experience overall,4
+Chipotle,Great flavors and excellent presentation,5
+Tim Hortons,Great flavors and excellent presentation,5
+McDonald's,"Mediocre, not too bad but not great",3
+KFC,Highly recommend this place,4
+Burger King,Disappointed with the experience,2
+Burger King,Service could be better,3
+Panda Express,Absolutely fantastic experience,5
+Domino's,Best meal I’ve had in a while,4
+KFC,"Loved the taste, will come again",4
+Buffalo Wild Wings,"Ambience was good, food was average",2
+Burger King,Cozy atmosphere and tasty food,5
+KFC,Absolutely fantastic experience,5
+Popeyes,Everything was perfect and delicious,4
+Domino's,Fresh ingredients and fast service,5
+Dunkin,Cozy atmosphere and tasty food,4
+Wendy's,"It was fine, just a regular visit",3
+Subway,Cozy atmosphere and tasty food,4
+Wendy's,Great flavors and excellent presentation,5
+Wendy's,Great flavors and excellent presentation,4
+McDonald's,Amazing food and friendly staff,5
+Chili's,The service was quick and polite,4
+Shake Shack,The service was quick and polite,5
+Shake Shack,The service was quick and polite,4
+Tim Hortons,Reasonable quality for the price,2
+Dunkin,Too expensive for what you get,1
+Panda Express,Food was stale and bland,2
+Pizza Hut,The service was quick and polite,5
+Starbucks,Best meal I’ve had in a while,5
+Olive Garden,The coffee was okay,2
+Panda Express,The service was quick and polite,4
+Nando's,Fresh ingredients and fast service,5
+Buffalo Wild Wings,Everything was perfect and delicious,4
+Taco Bell,Absolutely fantastic experience,5
+Five Guys,"Ambience was good, food was average",2
+Wendy's,The coffee was okay,4
+Chipotle,The order was wrong and cold,1
+Nando's,Too expensive for what you get,2
+Panda Express,Too expensive for what you get,1
+Subway,Cozy atmosphere and tasty food,5
+Panda Express,Best meal I’ve had in a while,4
+Pizza Hut,Food was stale and bland,2
+Subway,Cozy atmosphere and tasty food,5
+KFC,"Loved the taste, will come again",5
+Chipotle,Everything was perfect and delicious,5
+Chili's,Did not enjoy the meal at all,2
+Chipotle,Service could be better,2
+Starbucks,Amazing food and friendly staff,4
+Domino's,It’s fine for a quick meal,2
+Wendy's,Reasonable quality for the price,4
+Wendy's,"Mediocre, not too bad but not great",2
+Pizza Hut,Fresh ingredients and fast service,5
+Chili's,The service was quick and polite,5
+Nando's,Absolutely fantastic experience,5
+Chili's,"Mediocre, not too bad but not great",2
+Dunkin,Amazing food and friendly staff,4
+Domino's,"Ambience was good, food was average",2
+Chipotle,The service was quick and polite,5
+Nando's,Service could be better,2
+KFC,Too expensive for what you get,1
+McDonald's,The service was quick and polite,4
+Taco Bell,Cozy atmosphere and tasty food,4
+Olive Garden,The service was quick and polite,5
+Domino's,Everything was perfect and delicious,5
+Shake Shack,The order was wrong and cold,2
+Subway,Did not enjoy the meal at all,1
+KFC,Best meal I’ve had in a while,5
+Starbucks,Great flavors and excellent presentation,5
+Wendy's,"Loved the taste, will come again",5
+Olive Garden,Best meal I’ve had in a while,5
+Chili's,Absolutely fantastic experience,4
+Panda Express,Fresh ingredients and fast service,5
+Chipotle,Absolutely fantastic experience,5
+Five Guys,The coffee was okay,3
+Domino's,Terrible service and cold food,1
+Chipotle,Fresh ingredients and fast service,5
+KFC,Terrible service and cold food,1
+Wendy's,Best meal I’ve had in a while,4
+Wendy's,"Loved the taste, will come again",5
+Taco Bell,"Loved the taste, will come again",4
+KFC,Highly recommend this place,4
+KFC,Did not enjoy the meal at all,2
+Buffalo Wild Wings,Cozy atmosphere and tasty food,4
+Panda Express,"Ambience was good, food was average",4
+Popeyes,Great flavors and excellent presentation,4
+Wendy's,Amazing food and friendly staff,4
+Tim Hortons,Reasonable quality for the price,4
+Panda Express,Best meal I’ve had in a while,4
+Five Guys,Great flavors and excellent presentation,4
+Domino's,Great flavors and excellent presentation,4
+Panda Express,The taste was decent but not great,3
+Wendy's,Everything was perfect and delicious,4
+Subway,"Loved the taste, will come again",4
+Pizza Hut,Everything was perfect and delicious,4
+Buffalo Wild Wings,Highly recommend this place,5
+Chipotle,The coffee was okay,4
+Chipotle,"Loved the taste, will come again",4
+Burger King,Reasonable quality for the price,4
+Five Guys,"Food was okay, nothing special",2
+Subway,Reasonable quality for the price,2
+Panda Express,Everything was perfect and delicious,4
+Domino's,Terrible service and cold food,2
+Starbucks,"Loved the taste, will come again",4
+Tim Hortons,The coffee was okay,4
+Pizza Hut,Highly recommend this place,5
+Nando's,The service was quick and polite,4
+McDonald's,The order was wrong and cold,1
+KFC,Fresh ingredients and fast service,5
+Nando's,Amazing food and friendly staff,4
+Subway,The service was quick and polite,4
+Olive Garden,Everything was perfect and delicious,5
+Nando's,"It was fine, just a regular visit",4
+Taco Bell,Great flavors and excellent presentation,4
+Chipotle,The service was quick and polite,4
+Burger King,Reasonable quality for the price,3
+Wendy's,Terrible service and cold food,2
+Popeyes,Best meal I've had in a while,4
+Nando's,Amazing food and friendly staff,5
+Wendy's,Rude staff and dirty tables,2
+Buffalo Wild Wings,"Mediocre, not too bad but not great",3
+Starbucks,Poor hygiene and bad taste,1
+Dunkin,"Food was okay, nothing special",4
+Shake Shack,"Food was okay, nothing special",4
+Burger King,"Loved the taste, will come again",4
+Buffalo Wild Wings,Best meal I’ve had in a while,4
+Pizza Hut,The coffee was okay,2
+Dunkin,Food was stale and bland,1
+Shake Shack,"Ambience was good, food was average",3
+KFC,The order was wrong and cold,1
+Buffalo Wild Wings,Fresh ingredients and fast service,4
+Panda Express,Best meal I’ve had in a while,4
+Olive Garden,The taste was decent but not great,3
+KFC,Great flavors and excellent presentation,4
+Chipotle,Best meal I’ve had in a while,5
+Taco Bell,Poor hygiene and bad taste,2
+Olive Garden,Waited too long and food was awful,1
+Nando's,"Ambience was good, food was average",3
+Shake Shack,Highly recommend this place,5
+Starbucks,Great flavors and excellent presentation,4
+Five Guys,"Ambience was good, food was average",2
+Nando's,Would not recommend this place,1
+McDonald's,Waited too long and food was awful,1
+Taco Bell,Everything was perfect and delicious,4
+Five Guys,Highly recommend this place,4
+McDonald's,Highly recommend this place,4
+Subway,Fresh ingredients and fast service,5
